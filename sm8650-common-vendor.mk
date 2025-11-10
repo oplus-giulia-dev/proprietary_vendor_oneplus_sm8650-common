@@ -1192,7 +1192,6 @@ PRODUCT_PACKAGES += \
     vendor.oplus.hardware.cwb-V1-ndk \
     vendor.oplus.hardware.cwb@1.0 \
     vendor.oplus.hardware.displaycolorfeature-V1-ndk_vendor \
-    vendor.oplus.hardware.displaypanelfeature-V1-ndk_vendor \
     vendor.oplus.hardware.ims-V1-ndk \
     vendor.oplus.hardware.stability.oplus_project-V1-ndk \
     vendor.pixelworks.hardware.display@1.0_vendor \
@@ -1410,8 +1409,6 @@ PRODUCT_PACKAGES += \
     libwfduibcsinkinterface \
     libwfduibcsrc \
     libwfduibcsrcinterface \
-    vendor.oplus.hardware.displaypanelfeature-V1-ndk \
-    vendor.oplus.hardware.displaypanelfeature@1.0 \
     vendor.qti.ImsRtpService-V1-ndk \
     vendor.qti.diaghal@1.0 \
     vendor.qti.hardware.dpmaidlservice-V1-ndk \
@@ -1511,7 +1508,6 @@ PRODUCT_PACKAGES += \
     vendor.oplus.hardware.communicationcenter-V1-ndk \
     vendor.oplus.hardware.communicationcenter-V2-ndk \
     vendor.oplus.hardware.displaycolorfeature-V1-ndk \
-    vendor.oplus.hardware.displaypanelfeature-V1-ndk_odm \
     vendor.oplus.hardware.olc2-V2-ndk \
     vendor.oplus.hardware.stability.oplus_project-V2-ndk \
     vendor.pixelworks.hardware.display-V2-ndk \
