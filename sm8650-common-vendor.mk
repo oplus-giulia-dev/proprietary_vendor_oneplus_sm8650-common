@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8650-common/proprietary/odm/etc/media_profiles_V1_0.xml:$(TARGET_COPY_OUT_ODM)/etc/media_profiles_V1_0.xml \
     vendor/oneplus/sm8650-common/proprietary/odm/etc/oem_stx_platform_license.pfm:$(TARGET_COPY_OUT_ODM)/etc/oem_stx_platform_license.pfm \
     vendor/oneplus/sm8650-common/proprietary/odm/etc/sap.conf:$(TARGET_COPY_OUT_ODM)/etc/sap.conf \
-    vendor/oneplus/sm8650-common/proprietary/odm/etc/uah/uahconfig.pb:$(TARGET_COPY_OUT_ODM)/etc/uah/uahconfig.pb \
     vendor/oneplus/sm8650-common/proprietary/odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_ODM)/vendor/etc/wifi/WCNSS_qcom_cfg.ini \
     vendor/oneplus/sm8650-common/proprietary/odm/vendor/firmware/alipay.b00:$(TARGET_COPY_OUT_ODM)/vendor/firmware/alipay.b00 \
     vendor/oneplus/sm8650-common/proprietary/odm/vendor/firmware/alipay.b01:$(TARGET_COPY_OUT_ODM)/vendor/firmware/alipay.b01 \
@@ -1476,7 +1475,6 @@ PRODUCT_PACKAGES += \
     libmindroid-framework \
     libmpbase \
     libolc_vnd \
-    liboplus-uah-client \
     liboplus_service \
     libosenseaidlhalclient \
     libosensenativeproxy_client \
@@ -1500,7 +1498,6 @@ PRODUCT_PACKAGES += \
     librpmbengclient \
     libsecurity_event_dcs_vnd \
     libsnapdragoncolor-pxlw \
-    libuahcore \
     vendor.oplus.hardware.appradio@1.0 \
     vendor.oplus.hardware.communicationcenter-V1-ndk \
     vendor.oplus.hardware.communicationcenter-V2-ndk \
